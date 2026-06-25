@@ -3,7 +3,7 @@
 Meu portfólio pessoal desenvolvido com HTML5 e CSS3 puro, sem frameworks.
 
 ## 🔗 Acesse online
-👉 https://chicotads.github.io/portfolio
+👉 https://chicotads.github.io/portifolio/
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5
